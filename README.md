@@ -5,10 +5,20 @@
 
   <br/><br/>
 
-  <!-- Monocraft Typography Animated Subtitle (Embedded Monocraft) -->
+  <!-- Monocraft Typography Animated Subtitle -->
   <a href="https://rocaman.vercel.app/">
     <img src="./assets/typing-monocraft.svg" alt="Monocraft Typing SVG" width="650" />
   </a>
+
+  <br/><br/>
+
+  <!-- Minecraft Hearts Bar -->
+  <img src="./assets/pixel-hearts.svg" alt="Minecraft Hearts" width="200" />
+
+  <br/><br/>
+
+  <!-- Minecraft Hotbar -->
+  <img src="./assets/hotbar.svg" alt="Minecraft Hotbar" width="364" />
 
 </div>
 
@@ -79,6 +89,30 @@
 
 <br/>
 
+<!-- Minirreproductor estilo RocaMP3 -->
 <div align="center">
+  <a href="https://roca-mp3.vercel.app/">
+    <img src="./assets/roca-player.svg" alt="RocaMP3 Mini Player" width="540" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+### 📊 Estadísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RocamanMC&show_icons=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff&icon_color=00E5FF&border_color=00FF88&border_radius=8" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocamanMC&layout=compact&bg_color=0d1117&title_color=00FF88&text_color=ffffff&border_color=00E5FF&border_radius=8" alt="Top Languages" />
+</div>
+
+<br/>
+
+<!-- Companion & Footer -->
+<div align="center">
+  <img src="./assets/companion.svg" alt="Axolotl Companion" width="120" />
+  <br/>
   <sub>Construido bloque a bloque por <b>Rocaman</b></sub>
 </div>
