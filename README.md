@@ -73,14 +73,14 @@
     </td>
     <td align="center" width="50%" valign="top">
       <br/>
-      <a href="https://roca-mp3.vercel.app/">
-        <img src="./assets/rocafy.png" width="75" height="75" alt="RocaMP3" />
+      <a href="https://rocafy.vercel.app/">
+        <img src="./assets/rocafy.png" width="75" height="75" alt="Rocafy" />
         <br/><br/>
-        <b>RocaMP3</b>
+        <b>Rocafy</b>
       </a>
       <p>Plataforma de reproducción y streaming musical sin anuncios.</p>
-      <a href="https://roca-mp3.vercel.app/">
-        <b>Escuchar en RocaMP3 ↗</b>
+      <a href="https://rocafy.vercel.app/">
+        <b>Escuchar en Rocafy ↗</b>
       </a>
       <br/><br/>
     </td>
