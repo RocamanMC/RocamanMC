@@ -10,27 +10,6 @@
     <img src="./assets/typing-monocraft.svg" alt="Monocraft Typing SVG" width="650" />
   </a>
 
-  <br/><br/>
-
-  <!-- Enlaces Directos Elegantes (Sin triangulos de Vercel) -->
-  <p align="center">
-    <a href="https://rocaman.vercel.app/">
-      <img src="https://img.shields.io/badge/Web-rocaman.vercel.app-00C781?style=for-the-badge&labelColor=0d1117" alt="Rocaman Web" />
-    </a>
-    &nbsp;
-    <a href="https://rocastore.vercel.app/">
-      <img src="https://img.shields.io/badge/Store-rocastore.vercel.app-00A3FF?style=for-the-badge&labelColor=0d1117" alt="RocaStore" />
-    </a>
-    &nbsp;
-    <a href="https://ziroka.vercel.app/">
-      <img src="https://img.shields.io/badge/Ziroka-ziroka.vercel.app-A855F7?style=for-the-badge&labelColor=0d1117" alt="Ziroka" />
-    </a>
-    &nbsp;
-    <a href="https://roca-mp3.vercel.app/">
-      <img src="https://img.shields.io/badge/RocaMP3-roca--mp3.vercel.app-EC4899?style=for-the-badge&labelColor=0d1117" alt="RocaMP3" />
-    </a>
-  </p>
-
 </div>
 
 <br/>
