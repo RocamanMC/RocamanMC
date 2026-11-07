@@ -12,22 +12,22 @@
 
   <br/><br/>
 
-  <!-- Enlaces Directos Elegantes (Sin triángulos) -->
+  <!-- Enlaces Directos Elegantes (Sin triangulos de Vercel) -->
   <p align="center">
     <a href="https://rocaman.vercel.app/">
-      <img src="https://img.shields.io/badge/🌐_Web-rocaman.vercel.app-00C781?style=for-the-badge&labelColor=0d1117" alt="Rocaman Web" />
+      <img src="https://img.shields.io/badge/Web-rocaman.vercel.app-00C781?style=for-the-badge&labelColor=0d1117" alt="Rocaman Web" />
     </a>
     &nbsp;
     <a href="https://rocastore.vercel.app/">
-      <img src="https://img.shields.io/badge/🏬_Store-rocastore.vercel.app-00A3FF?style=for-the-badge&labelColor=0d1117" alt="RocaStore" />
+      <img src="https://img.shields.io/badge/Store-rocastore.vercel.app-00A3FF?style=for-the-badge&labelColor=0d1117" alt="RocaStore" />
     </a>
     &nbsp;
     <a href="https://ziroka.vercel.app/">
-      <img src="https://img.shields.io/badge/🛒_Ziroka-ziroka.vercel.app-A855F7?style=for-the-badge&labelColor=0d1117" alt="Ziroka" />
+      <img src="https://img.shields.io/badge/Ziroka-ziroka.vercel.app-A855F7?style=for-the-badge&labelColor=0d1117" alt="Ziroka" />
     </a>
     &nbsp;
     <a href="https://roca-mp3.vercel.app/">
-      <img src="https://img.shields.io/badge/🎵_RocaMP3-roca--mp3.vercel.app-EC4899?style=for-the-badge&labelColor=0d1117" alt="RocaMP3" />
+      <img src="https://img.shields.io/badge/RocaMP3-roca--mp3.vercel.app-EC4899?style=for-the-badge&labelColor=0d1117" alt="RocaMP3" />
     </a>
   </p>
 
@@ -50,7 +50,7 @@
       </a>
       <p>Tienda oficial de aplicaciones Android y web con instalación invisible sin residuos.</p>
       <a href="https://rocastore.vercel.app/">
-        <b>👉 Entrar a RocaStore ↗</b>
+        <b>Abrir RocaStore ↗</b>
       </a>
       <br/><br/>
     </td>
@@ -63,7 +63,7 @@
       </a>
       <p>Gestor colaborativo de despensa y listas en tiempo real con asistente IA.</p>
       <a href="https://ziroka.vercel.app/">
-        <b>👉 Abrir Ziroka ↗</b>
+        <b>Abrir Ziroka ↗</b>
       </a>
       <br/><br/>
     </td>
@@ -78,7 +78,7 @@
       </a>
       <p>Portal web central con herramientas interactivas y recursos comunitarios.</p>
       <a href="https://rocaman.vercel.app/">
-        <b>👉 Visitar web oficial ↗</b>
+        <b>Visitar web oficial ↗</b>
       </a>
       <br/><br/>
     </td>
@@ -91,7 +91,7 @@
       </a>
       <p>Plataforma de reproducción y streaming musical sin anuncios.</p>
       <a href="https://roca-mp3.vercel.app/">
-        <b>👉 Escuchar en RocaMP3 ↗</b>
+        <b>Escuchar en RocaMP3 ↗</b>
       </a>
       <br/><br/>
     </td>
