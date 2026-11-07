@@ -12,10 +12,6 @@
 
   <br/><br/>
 
-  <!-- Minecraft Hearts Bar -->
-  <img src="./assets/pixel-hearts.svg" alt="Minecraft Hearts" width="200" />
-
-  <br/><br/>
 
   <!-- Interactive Minecraft Hotbar (9 Clickable Slots) -->
   <p align="center">
