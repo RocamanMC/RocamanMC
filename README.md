@@ -101,7 +101,11 @@
 ### 🧱 Bloques de Actividad
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Minecraft Contributions" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
+    <img alt="3D Minecraft Block Contributions" src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
