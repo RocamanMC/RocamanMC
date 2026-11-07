@@ -6,7 +6,7 @@
   <br/><br/>
 
   <!-- Monocraft Typography Animated Subtitle -->
-  <a href="https://rocaman.vercel.app/">
+  <a href="https://rocaman.vercel.app/" target="_blank">
     <img src="./assets/typing-monocraft.svg" alt="Monocraft Typing SVG" width="650" />
   </a>
 
@@ -32,26 +32,26 @@
   <tr>
     <td align="center" width="50%" valign="top">
       <br/>
-      <a href="https://rocastore.vercel.app/">
+      <a href="https://rocastore.vercel.app/" target="_blank">
         <img src="./assets/rocastore.png" width="75" height="75" alt="RocaStore" />
         <br/><br/>
         <b>RocaStore</b>
       </a>
       <p>Tienda oficial de aplicaciones Android y web con instalación invisible sin residuos.</p>
-      <a href="https://rocastore.vercel.app/">
+      <a href="https://rocastore.vercel.app/" target="_blank">
         <b>Abrir RocaStore ↗</b>
       </a>
       <br/><br/>
     </td>
     <td align="center" width="50%" valign="top">
       <br/>
-      <a href="https://ziroka.vercel.app/">
+      <a href="https://ziroka.vercel.app/" target="_blank">
         <img src="./assets/ziroka.png" width="75" height="75" alt="Ziroka" />
         <br/><br/>
         <b>Ziroka</b>
       </a>
       <p>Gestor colaborativo de despensa y listas en tiempo real con asistente IA.</p>
-      <a href="https://ziroka.vercel.app/">
+      <a href="https://ziroka.vercel.app/" target="_blank">
         <b>Abrir Ziroka ↗</b>
       </a>
       <br/><br/>
@@ -60,26 +60,26 @@
   <tr>
     <td align="center" width="50%" valign="top">
       <br/>
-      <a href="https://rocaman.vercel.app/">
+      <a href="https://rocaman.vercel.app/" target="_blank">
         <img src="./assets/rocaweb.png" width="75" height="75" alt="Rocaman Web" />
         <br/><br/>
         <b>Rocaman Web</b>
       </a>
       <p>Portal web central con herramientas interactivas y recursos comunitarios.</p>
-      <a href="https://rocaman.vercel.app/">
+      <a href="https://rocaman.vercel.app/" target="_blank">
         <b>Visitar web oficial ↗</b>
       </a>
       <br/><br/>
     </td>
     <td align="center" width="50%" valign="top">
       <br/>
-      <a href="https://rocafy.vercel.app/">
+      <a href="https://rocafy.vercel.app/" target="_blank">
         <img src="./assets/rocafy.png" width="75" height="75" alt="Rocafy" />
         <br/><br/>
         <b>Rocafy</b>
       </a>
       <p>Plataforma de reproducción y streaming musical sin anuncios.</p>
-      <a href="https://rocafy.vercel.app/">
+      <a href="https://rocafy.vercel.app/" target="_blank">
         <b>Escuchar en Rocafy ↗</b>
       </a>
       <br/><br/>
@@ -91,7 +91,7 @@
 
 <!-- Minirreproductor estilo Rocafy -->
 <div align="center">
-  <a href="https://rocafy.vercel.app/">
+  <a href="https://rocafy.vercel.app/" target="_blank">
     <img src="./assets/roca-player.svg" alt="Rocafy Mini Player" width="540" />
   </a>
 </div>
