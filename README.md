@@ -89,10 +89,10 @@
 
 <br/>
 
-<!-- Minirreproductor estilo RocaMP3 -->
+<!-- Minirreproductor estilo Rocafy -->
 <div align="center">
-  <a href="https://roca-mp3.vercel.app/">
-    <img src="./assets/roca-player.svg" alt="RocaMP3 Mini Player" width="540" />
+  <a href="https://rocafy.vercel.app/">
+    <img src="./assets/roca-player.svg" alt="Rocafy Mini Player" width="540" />
   </a>
 </div>
 
