@@ -5,9 +5,9 @@
 
   <br/><br/>
 
-  <!-- Monocraft Typography Animated Subtitle -->
+  <!-- Monocraft Typography Animated Subtitle (Embedded Monocraft) -->
   <a href="https://rocaman.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Monocraft&weight=600&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&height=50&lines=%C2%A1Bienvenido+a+mi+perfil!;Construyendo+bloque+a+bloque;Explora+mis+aplicaciones" alt="Monocraft Typing SVG" />
+    <img src="./assets/typing-monocraft.svg" alt="Monocraft Typing SVG" width="650" />
   </a>
 
   <br/><br/>
