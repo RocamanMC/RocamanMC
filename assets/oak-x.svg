@@ -58,18 +58,17 @@
 
   <!-- Brand Icon Frame (Inset Minecraft Slot) -->
   <g transform="translate(14, 10)">
-    <rect x="0" y="0" width="38" height="38" fill="#1C1106" rx="2" />
-    <rect x="1" y="1" width="36" height="36" fill="#3D2409" rx="1" />
-    <rect x="2" y="2" width="34" height="34" fill="#241505" />
+    <rect x="0" y="0" width="38" height="38" fill="#1C1106" rx="3" />
+    <rect x="1" y="1" width="36" height="36" fill="#3D2409" rx="2" />
+    <rect x="2" y="2" width="34" height="34" fill="#000000" rx="1" />
     
-    <!-- Icon SVG -->
-    
-<rect x="5" y="5" width="24" height="24" rx="4" fill="#000000" />
-<path d="M10,9 L15,16 L10,23 L12.5,23 L16.2,17.7 L20,23 L23.5,23 L18,15.3 L22.8,9 L20.3,9 L16.8,13.7 L13.5,9 Z M12.5,10.5 L14,10.5 L21,21.5 L19.5,21.5 Z" fill="#FFFFFF" />
-
+    <!-- Official Icon SVG Scaled into 24x24 box inside the 34x34 colored slot -->
+    <g transform="translate(7, 7) scale(0.8333)">
+      <path d="M14.234 10.162 22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z" fill="#FFFFFF" />
+    </g>
   </g>
 
-  <!-- Crisp Single-Pass Text (No fake duplicate shadow) -->
+  <!-- Crisp Single-Pass Monocraft Text -->
   <g transform="translate(60, 25)">
     <text class="mc-title" x="0" y="0">X (Twitter)</text>
     <text class="mc-sub" x="0" y="17">@Rocaman_mc</text>

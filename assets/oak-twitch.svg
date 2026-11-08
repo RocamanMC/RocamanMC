@@ -58,20 +58,17 @@
 
   <!-- Brand Icon Frame (Inset Minecraft Slot) -->
   <g transform="translate(14, 10)">
-    <rect x="0" y="0" width="38" height="38" fill="#1C1106" rx="2" />
-    <rect x="1" y="1" width="36" height="36" fill="#3D2409" rx="1" />
-    <rect x="2" y="2" width="34" height="34" fill="#241505" />
+    <rect x="0" y="0" width="38" height="38" fill="#1C1106" rx="3" />
+    <rect x="1" y="1" width="36" height="36" fill="#3D2409" rx="2" />
+    <rect x="2" y="2" width="34" height="34" fill="#9146FF" rx="1" />
     
-    <!-- Icon SVG -->
-    
-<rect x="6" y="6" width="22" height="22" rx="3" fill="#9146FF" />
-<polygon points="12,12 12,18 15,18 15,12" fill="#FFFFFF" />
-<polygon points="19,12 19,18 22,18 22,12" fill="#FFFFFF" />
-<polygon points="17,24 21,24 21,20" fill="#9146FF" />
-
+    <!-- Official Icon SVG Scaled into 24x24 box inside the 34x34 colored slot -->
+    <g transform="translate(7, 7) scale(0.8333)">
+      <path d="M11.571 4.714h1.715v5.143H11.57zm4.715 0H18v5.143h-1.714zM6 0L1.714 4.286v15.428h5.143V24l4.286-4.286h3.428L22.286 12V0zm14.571 11.143l-3.428 3.428h-3.429l-3 3v-3H6.857V1.714h13.714Z" fill="#FFFFFF" />
+    </g>
   </g>
 
-  <!-- Crisp Single-Pass Text (No fake duplicate shadow) -->
+  <!-- Crisp Single-Pass Monocraft Text -->
   <g transform="translate(60, 25)">
     <text class="mc-title" x="0" y="0">Twitch</text>
     <text class="mc-sub" x="0" y="17">rocaman_mc</text>
