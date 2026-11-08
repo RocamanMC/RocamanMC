@@ -12,7 +12,10 @@
     <img src="./assets/typing-monocraft.svg" alt="Monocraft Typing SVG" width="700" />
   </a>
 
-  <br/><br/>
+  <!-- Makapaka Roaming Easter Egg (Appears randomly across different spots) -->
+  <a href="https://rocaman.vercel.app/" title="¡Has encontrado a Makapaka! 👀">
+    <img src="./assets/makapaka-roam.svg" width="100%" alt="" />
+  </a>
 
   <!-- Interactive Minecraft Hotbar flanked by Rocaman Chibi & Axolotl -->
   <p align="center">
@@ -126,6 +129,8 @@
   <a href="https://rocaman.vercel.app/" title="Rocaman"><img src="./assets/rocaman-animated.gif" alt="Rocaman Chibi" width="85" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/companion.svg" alt="Axolotl Companion" width="115" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://rocaman.vercel.app/" title="¡Makapaka vigilando desde las sombras! 🗿"><img src="./assets/makapaka-peek.svg" width="85" alt="" align="middle" /></a>
   <br/><br/>
   <sub>Construido bloque a bloque por <b>Rocaman</b></sub>
 </div>
