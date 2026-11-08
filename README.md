@@ -7,7 +7,6 @@
 
   <br/><br/>
 
-
   <!-- Monocraft Typography Animated Subtitle -->
   <a href="https://rocaman.vercel.app/">
     <img src="./assets/typing-monocraft.svg" alt="Monocraft Typing SVG" width="700" />
@@ -15,9 +14,13 @@
 
   <br/><br/>
 
-  <!-- Interactive Minecraft Hotbar (9 Clickable Slots) -->
+  <!-- Interactive Minecraft Hotbar flanked by Rocaman Chibi & Axolotl -->
   <p align="center">
-    <a href="https://rocaman.vercel.app/" title="Rocaman Web (rocaman.vercel.app)"><img src="./assets/slot-1-rocaweb.svg" width="44" height="44" alt="Rocaman Web" /></a><a href="https://rocastore.vercel.app/" title="RocaStore (rocastore.vercel.app)"><img src="./assets/slot-2-rocastore.svg" width="44" height="44" alt="RocaStore" /></a><a href="https://rocafy.vercel.app/" title="Rocafy (rocafy.vercel.app)"><img src="./assets/slot-3-rocafy.svg" width="44" height="44" alt="Rocafy" /></a><a href="https://ziroka.vercel.app/" title="Ziroka (ziroka.vercel.app)"><img src="./assets/slot-4-ziroka.svg" width="44" height="44" alt="Ziroka" /></a><a href="https://impostor-rc.vercel.app/" title="Impostor (impostor-rc.vercel.app)"><img src="./assets/slot-5-impostor.svg" width="44" height="44" alt="Impostor" /></a><a href="https://cartas-rc.vercel.app/" title="Cartas Mus (cartas-rc.vercel.app)"><img src="./assets/slot-6-cartas.svg" width="44" height="44" alt="Cartas Mus" /></a><a href="https://misma-neurona-rc.vercel.app/" title="Misma Neurona (misma-neurona-rc.vercel.app)"><img src="./assets/slot-7-mismaneurona.svg" width="44" height="44" alt="Misma Neurona" /></a><a href="https://marvel-rc.vercel.app/" title="Marvel RC (marvel-rc.vercel.app)"><img src="./assets/slot-8-marvel.svg" width="44" height="44" alt="Marvel RC" /></a><a href="https://rocalinks.vercel.app/" title="RocaLinks (rocalinks.vercel.app)"><img src="./assets/slot-9-rocalinks.svg" width="44" height="44" alt="RocaLinks" /></a>
+    <a href="https://rocaman.vercel.app/" title="Rocaman"><img src="./assets/rocaman-animated.gif" alt="Rocaman Chibi" width="48" align="middle" /></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://rocaman.vercel.app/" title="Rocaman Web (rocaman.vercel.app)"><img src="./assets/slot-1-rocaweb.svg" width="44" height="44" alt="Rocaman Web" align="middle" /></a><a href="https://rocastore.vercel.app/" title="RocaStore (rocastore.vercel.app)"><img src="./assets/slot-2-rocastore.svg" width="44" height="44" alt="RocaStore" align="middle" /></a><a href="https://rocafy.vercel.app/" title="Rocafy (rocafy.vercel.app)"><img src="./assets/slot-3-rocafy.svg" width="44" height="44" alt="Rocafy" align="middle" /></a><a href="https://ziroka.vercel.app/" title="Ziroka (ziroka.vercel.app)"><img src="./assets/slot-4-ziroka.svg" width="44" height="44" alt="Ziroka" align="middle" /></a><a href="https://impostor-rc.vercel.app/" title="Impostor (impostor-rc.vercel.app)"><img src="./assets/slot-5-impostor.svg" width="44" height="44" alt="Impostor" align="middle" /></a><a href="https://cartas-rc.vercel.app/" title="Cartas Mus (cartas-rc.vercel.app)"><img src="./assets/slot-6-cartas.svg" width="44" height="44" alt="Cartas Mus" align="middle" /></a><a href="https://misma-neurona-rc.vercel.app/" title="Misma Neurona (misma-neurona-rc.vercel.app)"><img src="./assets/slot-7-mismaneurona.svg" width="44" height="44" alt="Misma Neurona" align="middle" /></a><a href="https://marvel-rc.vercel.app/" title="Marvel RC (marvel-rc.vercel.app)"><img src="./assets/slot-8-marvel.svg" width="44" height="44" alt="Marvel RC" align="middle" /></a><a href="https://rocalinks.vercel.app/" title="RocaLinks (rocalinks.vercel.app)"><img src="./assets/slot-9-rocalinks.svg" width="44" height="44" alt="RocaLinks" align="middle" /></a>
+    &nbsp;&nbsp;&nbsp;
+    <img src="./assets/companion.svg" alt="Axolotl Companion" width="65" align="middle" />
   </p>
 
 </div>
@@ -118,11 +121,7 @@
 
 <br/>
 
-<!-- Companion & Footer (Rocaman Animated GIF & Axolotl side-by-side) -->
+<!-- Footer -->
 <div align="center">
-  <a href="https://rocaman.vercel.app/" title="Rocaman"><img src="./assets/rocaman-animated.gif" alt="Rocaman Animated" width="90" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/companion.svg" alt="Axolotl Companion" width="120" />
-  <br/><br/>
   <sub>Construido bloque a bloque por <b>Rocaman</b></sub>
 </div>
