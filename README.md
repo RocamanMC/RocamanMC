@@ -118,11 +118,9 @@
 
 <br/>
 
-<!-- Companion & Footer -->
+<!-- Companion & Footer (Alternating Chibi Rocaman & Axolotl) -->
 <div align="center">
-  <a href="https://rocaman.vercel.app/" title="Rocaman"><img src="./assets/rocaman-chibi.gif" alt="Rocaman Chibi GIF" width="88" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/companion.svg" alt="Axolotl Companion" width="120" />
+  <a href="https://rocaman.vercel.app/" title="Rocaman & Ajolote"><img src="./assets/companion-alternating.gif" alt="Rocaman & Axolotl" width="95" /></a>
   <br/><br/>
   <sub>Construido bloque a bloque por <b>Rocaman</b></sub>
 </div>
