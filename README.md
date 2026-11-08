@@ -7,12 +7,6 @@
 
   <br/><br/>
 
-  <!-- 3D Minecraft Skin Model (Animated Floating with Particles) -->
-  <a href="https://rocaman.vercel.app/" title="Ver Visor 3D de Skins en Rocaman Web">
-    <img src="./assets/skin-3d-animated.svg" alt="Rocaman 3D Skin" width="180" />
-  </a>
-
-  <br/><br/>
 
   <!-- Monocraft Typography Animated Subtitle -->
   <a href="https://rocaman.vercel.app/">
