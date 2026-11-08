@@ -120,7 +120,9 @@
 
 <!-- Companion & Footer -->
 <div align="center">
+  <a href="https://rocaman.vercel.app/" title="Rocaman"><img src="./assets/rocaman-chibi-animated.svg" alt="Rocaman Chibi" width="88" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/companion.svg" alt="Axolotl Companion" width="120" />
-  <br/>
+  <br/><br/>
   <sub>Construido bloque a bloque por <b>Rocaman</b></sub>
 </div>
