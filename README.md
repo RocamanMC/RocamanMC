@@ -136,9 +136,11 @@
 
 <!-- Footer (Companions & Signature) -->
 <div align="center">
-  <a href="https://rocaman.vercel.app/" title="Rocaman"><img src="./assets/rocaman-animated.gif" alt="Rocaman Chibi" width="85" /></a>
+  <a href="https://rocaman.vercel.app/" title="Rocaman"><img src="./assets/rocaman-animated.gif" alt="Rocaman Chibi" width="85" align="middle" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/companion.svg" alt="Axolotl Companion" width="115" />
+  <img src="./assets/companion.svg" alt="Axolotl Companion" width="115" align="middle" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/creeper.svg" alt="Creeper" width="38" align="middle" title="¡Sssssssss...! 💣" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://rocaman.vercel.app/" title="¡Makapaka vigilando desde las sombras! 🗿"><img src="./assets/makapaka-peek.svg" width="85" alt="" align="middle" /></a>
   <br/><br/>
