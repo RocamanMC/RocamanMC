@@ -1,107 +1,79 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 95" width="500px" height="95px">
   <defs>
     <style>
+      @font-face {
+        font-family: 'Monocraft';
+        src: url('data:font/woff2;base64,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') format('woff2');
+        font-weight: normal;
+        font-style: normal;
+      }
       .sign-title {
-        font-family: 'Courier New', monospace, sans-serif;
-        font-weight: 900;
-        font-size: 17px;
+        font-family: 'Monocraft', monospace;
+        font-size: 16px;
         fill: #FFFFFF;
-        letter-spacing: 2px;
+        letter-spacing: 1.5px;
       }
       .sign-sub {
-        font-family: 'Courier New', monospace, sans-serif;
-        font-weight: bold;
-        font-size: 11px;
+        font-family: 'Monocraft', monospace;
+        font-size: 10px;
         fill: #00FF88;
-        letter-spacing: 1px;
+        letter-spacing: 0.8px;
       }
     </style>
   </defs>
 
   <!-- Left Iron Chain -->
   <g transform="translate(85, 0)">
-    <!-- Chain Links -->
     <rect x="3" y="0" width="6" height="8" fill="#4B4B4B" />
     <rect x="4" y="2" width="4" height="4" fill="#8E8E8E" />
-    
     <rect x="1" y="6" width="10" height="9" fill="#303030" rx="1" />
     <rect x="3" y="8" width="6" height="5" fill="#6A6A6A" />
-
     <rect x="3" y="13" width="6" height="8" fill="#4B4B4B" />
     <rect x="4" y="15" width="4" height="4" fill="#8E8E8E" />
-
     <rect x="1" y="19" width="10" height="9" fill="#303030" rx="1" />
     <rect x="3" y="21" width="6" height="5" fill="#6A6A6A" />
-    
-    <!-- Iron Bracket onto Sign -->
     <rect x="0" y="26" width="12" height="6" fill="#1C1106" />
     <rect x="2" y="27" width="8" height="4" fill="#6A6A6A" />
   </g>
 
   <!-- Right Iron Chain -->
   <g transform="translate(403, 0)">
-    <!-- Chain Links -->
     <rect x="3" y="0" width="6" height="8" fill="#4B4B4B" />
     <rect x="4" y="2" width="4" height="4" fill="#8E8E8E" />
-    
     <rect x="1" y="6" width="10" height="9" fill="#303030" rx="1" />
     <rect x="3" y="8" width="6" height="5" fill="#6A6A6A" />
-
     <rect x="3" y="13" width="6" height="8" fill="#4B4B4B" />
     <rect x="4" y="15" width="4" height="4" fill="#8E8E8E" />
-
     <rect x="1" y="19" width="10" height="9" fill="#303030" rx="1" />
     <rect x="3" y="21" width="6" height="5" fill="#6A6A6A" />
-
-    <!-- Iron Bracket onto Sign -->
     <rect x="0" y="26" width="12" height="6" fill="#1C1106" />
     <rect x="2" y="27" width="8" height="4" fill="#6A6A6A" />
   </g>
 
   <!-- Main Hanging Sign Board -->
   <g transform="translate(30, 28)">
-    <!-- Outer Dark Shadow Border -->
     <rect x="0" y="0" width="440" height="62" fill="#1C1106" rx="4" />
-    
-    <!-- Outer Oak Border (Bevel) -->
     <rect x="3" y="3" width="434" height="56" fill="#5A3813" rx="2" />
-    
-    <!-- Top & Left Highlight -->
     <rect x="3" y="3" width="434" height="4" fill="#D9AC6F" />
     <rect x="3" y="3" width="4" height="56" fill="#D9AC6F" />
-
-    <!-- Bottom & Right Shadow -->
     <rect x="3" y="55" width="434" height="4" fill="#3D2409" />
     <rect x="433" y="3" width="4" height="56" fill="#3D2409" />
-
-    <!-- Main Oak Wood Plank Body -->
     <rect x="7" y="7" width="426" height="48" fill="#8F6229" />
-
-    <!-- Oak Planks Horizontal Grains -->
     <rect x="7" y="15" width="426" height="2" fill="#7D5323" opacity="0.6" />
     <rect x="7" y="27" width="426" height="3" fill="#9C6E33" opacity="0.7" />
     <rect x="7" y="40" width="426" height="2" fill="#6E491F" opacity="0.5" />
-
-    <!-- Knots / Pixels -->
     <rect x="50" y="12" width="12" height="4" fill="#5A3813" opacity="0.4" />
     <rect x="180" y="32" width="16" height="3" fill="#5A3813" opacity="0.4" />
     <rect x="350" y="18" width="14" height="4" fill="#5A3813" opacity="0.4" />
-
-    <!-- Corner Iron Rivets/Studs -->
     <rect x="9" y="9" width="4" height="4" fill="#331F0A" />
     <rect x="427" y="9" width="4" height="4" fill="#331F0A" />
     <rect x="9" y="49" width="4" height="4" fill="#331F0A" />
     <rect x="427" y="49" width="4" height="4" fill="#331F0A" />
 
-    <!-- Text Group (Centered) -->
-    <g transform="translate(220, 29)" text-anchor="middle">
-      <!-- Shadow -->
-      <text class="sign-title" x="2" y="2" fill="#1C1106">TABLÓN DE LA COMUNIDAD</text>
-      <text class="sign-title" x="0" y="0">TABLÓN DE LA COMUNIDAD</text>
-      
-      <!-- Subtitle -->
-      <text class="sign-sub" x="1" y="19" fill="#1C1106">⛏️ CONECTA CON ROCAMAN EN TODAS LAS PLATAFORMAS ⛏️</text>
-      <text class="sign-sub" x="0" y="18">⛏️ CONECTA CON ROCAMAN EN TODAS LAS PLATAFORMAS ⛏️</text>
+    <!-- Crisp Single-Pass Text (No duplicate shadow layer) -->
+    <g transform="translate(220, 30)" text-anchor="middle">
+      <text class="sign-title" x="0" y="0">TABLON DE LA COMUNIDAD</text>
+      <text class="sign-sub" x="0" y="18">CONECTA CON ROCAMAN EN TODAS LAS PLATAFORMAS</text>
     </g>
 
     <!-- Animated Neon Outline -->
