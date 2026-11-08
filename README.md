@@ -109,17 +109,27 @@
 ### 🌐 Redes y Comunidad
 
 <div align="center">
-  <a href="https://www.youtube.com/@Rocaman_mc" title="YouTube Oficial de ROCAMAN"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  &nbsp;
-  <a href="https://www.twitch.tv/rocaman_mc" title="Twitch de ROCAMAN"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
-  &nbsp;
-  <a href="https://discord.com/invite/v9BqCRXnZt" title="Comunidad Rocacraft en Discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  &nbsp;
-  <a href="https://www.tiktok.com/@rocaman_mc" title="TikTok de ROCAMAN"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  &nbsp;
-  <a href="https://www.instagram.com/rocaman_mc" title="Instagram de ROCAMAN"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  &nbsp;
-  <a href="https://twitter.com/Rocaman_mc" title="X (Twitter) de ROCAMAN"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+
+  <!-- Minecraft Oak Hanging Sign -->
+  <img src="./assets/oak-hanging-sign.svg" width="460" alt="Tablón de la Comunidad" />
+
+  <br/><br/>
+
+  <!-- Minecraft Oak Planks Notice Board -->
+  <p align="center">
+    <a href="https://www.youtube.com/@Rocaman_mc" title="YouTube Oficial de ROCAMAN"><img src="./assets/oak-youtube.svg" width="205" alt="YouTube" /></a>
+    &nbsp;&nbsp;
+    <a href="https://www.twitch.tv/rocaman_mc" title="Twitch Oficial de ROCAMAN"><img src="./assets/oak-twitch.svg" width="205" alt="Twitch" /></a>
+    &nbsp;&nbsp;
+    <a href="https://discord.com/invite/v9BqCRXnZt" title="Comunidad Rocacraft en Discord"><img src="./assets/oak-discord.svg" width="205" alt="Discord" /></a>
+    <br/><br/>
+    <a href="https://www.tiktok.com/@rocaman_mc" title="TikTok Oficial de ROCAMAN"><img src="./assets/oak-tiktok.svg" width="205" alt="TikTok" /></a>
+    &nbsp;&nbsp;
+    <a href="https://www.instagram.com/rocaman_mc" title="Instagram Oficial de ROCAMAN"><img src="./assets/oak-instagram.svg" width="205" alt="Instagram" /></a>
+    &nbsp;&nbsp;
+    <a href="https://twitter.com/Rocaman_mc" title="X (Twitter) Oficial de ROCAMAN"><img src="./assets/oak-x.svg" width="205" alt="X (Twitter)" /></a>
+  </p>
+
 </div>
 
 <br/>

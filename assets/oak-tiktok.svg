@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 58" width="210px" height="58px">
+  <defs>
+    <style>
+      .mc-title {
+        font-family: 'Courier New', monospace, sans-serif;
+        font-weight: 900;
+        font-size: 13px;
+        fill: #FFFFFF;
+        letter-spacing: 0.5px;
+      }
+      .mc-sub {
+        font-family: 'Courier New', monospace, sans-serif;
+        font-weight: bold;
+        font-size: 10px;
+        fill: #00E5FF;
+        letter-spacing: 0.2px;
+      }
+      .wood-glow {
+        filter: drop-shadow(0px 2px 3px rgba(0,0,0,0.8));
+      }
+    </style>
+  </defs>
+
+  <!-- Outer Dark Shadow Border -->
+  <rect x="0" y="0" width="210" height="58" fill="#1C1106" rx="3" />
+  
+  <!-- Outer Oak Border (Bevel) -->
+  <rect x="2" y="2" width="206" height="54" fill="#5A3813" rx="2" />
+  
+  <!-- Top & Left Highlight -->
+  <rect x="2" y="2" width="206" height="3" fill="#D9AC6F" />
+  <rect x="2" y="2" width="3" height="54" fill="#D9AC6F" />
+
+  <!-- Bottom & Right Shadow -->
+  <rect x="2" y="53" width="206" height="3" fill="#3D2409" />
+  <rect x="205" y="2" width="3" height="54" fill="#3D2409" />
+
+  <!-- Main Oak Wood Plank Body -->
+  <rect x="5" y="5" width="200" height="48" fill="#8F6229" />
+
+  <!-- Oak Wood Grain Lines (Pixel Art Texture) -->
+  <rect x="5" y="10" width="200" height="2" fill="#7D5323" opacity="0.6" />
+  <rect x="5" y="21" width="200" height="2" fill="#9C6E33" opacity="0.8" />
+  <rect x="5" y="32" width="200" height="2" fill="#6E491F" opacity="0.5" />
+  <rect x="5" y="42" width="200" height="2" fill="#9C6E33" opacity="0.7" />
+  
+  <!-- Subtle Wood Knots / Pixels -->
+  <rect x="35" y="8" width="8" height="3" fill="#5A3813" opacity="0.4" />
+  <rect x="90" y="24" width="12" height="2" fill="#5A3813" opacity="0.4" />
+  <rect x="160" y="36" width="10" height="3" fill="#5A3813" opacity="0.4" />
+
+  <!-- Corner Iron Rivets/Bolts -->
+  <rect x="6" y="6" width="3" height="3" fill="#331F0A" />
+  <rect x="201" y="6" width="3" height="3" fill="#331F0A" />
+  <rect x="6" y="49" width="3" height="3" fill="#331F0A" />
+  <rect x="201" y="49" width="3" height="3" fill="#331F0A" />
+
+  <!-- Brand Icon Frame (Inset Minecraft Slot) -->
+  <g transform="translate(14, 10)">
+    <rect x="0" y="0" width="38" height="38" fill="#1C1106" rx="2" />
+    <rect x="1" y="1" width="36" height="36" fill="#3D2409" rx="1" />
+    <rect x="2" y="2" width="34" height="34" fill="#241505" />
+    
+    <!-- Icon SVG placed here -->
+    
+<rect x="5" y="5" width="24" height="24" rx="4" fill="#000000" />
+<path d="M18,9 C19,11 21,12 23,12 L23,15 C21,15 19.5,14 18.5,13 L18.5,20 C18.5,23 16,25 13,25 C10,25 8,23 8,20 C8,17 10.5,15 13.5,15 L14.5,15 L14.5,18 C13.5,18 12,18.5 12,20 C12,21 12.5,22 13.5,22 C15,22 15.5,21 15.5,19.5 L15.5,9 Z" fill="#00F2FE" />
+<path d="M19,10 C20,12 22,13 24,13 L24,16 C22,16 20.5,15 19.5,14 L19.5,21 C19.5,24 17,26 14,26 C11,26 9,24 9,21 C9,18 11.5,16 14.5,16 L15.5,16 L15.5,19 C14.5,19 13,19.5 13,21 C13,22 13.5,23 14.5,23 C16,23 16.5,22 16.5,20.5 L16.5,10 Z" fill="#FE0979" opacity="0.8" />
+
+  </g>
+
+  <!-- Text Details -->
+  <g transform="translate(60, 24)">
+    <!-- Shadow for title -->
+    <text class="mc-title" x="1" y="1" fill="#1C1106">TikTok</text>
+    <text class="mc-title" x="0" y="0">TikTok</text>
+
+    <!-- Handle / Subtext -->
+    <text class="mc-sub" x="1" y="18" fill="#1C1106">@rocaman_mc</text>
+    <text class="mc-sub" x="0" y="17">@rocaman_mc</text>
+  </g>
+
+  <!-- Animated Enchanted Border on Hover/Idle subtle pulse -->
+  <rect x="2" y="2" width="206" height="54" fill="none" stroke="#00E5FF" stroke-width="1.5" opacity="0.2" rx="2">
+    <animate attributeName="opacity" values="0.1;0.4;0.1" dur="3s" repeatCount="indefinite" />
+  </rect>
+</svg>

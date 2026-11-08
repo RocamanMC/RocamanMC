@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 58" width="210px" height="58px">
+  <defs>
+    <style>
+      .mc-title {
+        font-family: 'Courier New', monospace, sans-serif;
+        font-weight: 900;
+        font-size: 13px;
+        fill: #FFFFFF;
+        letter-spacing: 0.5px;
+      }
+      .mc-sub {
+        font-family: 'Courier New', monospace, sans-serif;
+        font-weight: bold;
+        font-size: 10px;
+        fill: #B388FF;
+        letter-spacing: 0.2px;
+      }
+      .wood-glow {
+        filter: drop-shadow(0px 2px 3px rgba(0,0,0,0.8));
+      }
+    </style>
+  </defs>
+
+  <!-- Outer Dark Shadow Border -->
+  <rect x="0" y="0" width="210" height="58" fill="#1C1106" rx="3" />
+  
+  <!-- Outer Oak Border (Bevel) -->
+  <rect x="2" y="2" width="206" height="54" fill="#5A3813" rx="2" />
+  
+  <!-- Top & Left Highlight -->
+  <rect x="2" y="2" width="206" height="3" fill="#D9AC6F" />
+  <rect x="2" y="2" width="3" height="54" fill="#D9AC6F" />
+
+  <!-- Bottom & Right Shadow -->
+  <rect x="2" y="53" width="206" height="3" fill="#3D2409" />
+  <rect x="205" y="2" width="3" height="54" fill="#3D2409" />
+
+  <!-- Main Oak Wood Plank Body -->
+  <rect x="5" y="5" width="200" height="48" fill="#8F6229" />
+
+  <!-- Oak Wood Grain Lines (Pixel Art Texture) -->
+  <rect x="5" y="10" width="200" height="2" fill="#7D5323" opacity="0.6" />
+  <rect x="5" y="21" width="200" height="2" fill="#9C6E33" opacity="0.8" />
+  <rect x="5" y="32" width="200" height="2" fill="#6E491F" opacity="0.5" />
+  <rect x="5" y="42" width="200" height="2" fill="#9C6E33" opacity="0.7" />
+  
+  <!-- Subtle Wood Knots / Pixels -->
+  <rect x="35" y="8" width="8" height="3" fill="#5A3813" opacity="0.4" />
+  <rect x="90" y="24" width="12" height="2" fill="#5A3813" opacity="0.4" />
+  <rect x="160" y="36" width="10" height="3" fill="#5A3813" opacity="0.4" />
+
+  <!-- Corner Iron Rivets/Bolts -->
+  <rect x="6" y="6" width="3" height="3" fill="#331F0A" />
+  <rect x="201" y="6" width="3" height="3" fill="#331F0A" />
+  <rect x="6" y="49" width="3" height="3" fill="#331F0A" />
+  <rect x="201" y="49" width="3" height="3" fill="#331F0A" />
+
+  <!-- Brand Icon Frame (Inset Minecraft Slot) -->
+  <g transform="translate(14, 10)">
+    <rect x="0" y="0" width="38" height="38" fill="#1C1106" rx="2" />
+    <rect x="1" y="1" width="36" height="36" fill="#3D2409" rx="1" />
+    <rect x="2" y="2" width="34" height="34" fill="#241505" />
+    
+    <!-- Icon SVG placed here -->
+    
+<rect x="6" y="6" width="22" height="22" rx="3" fill="#9146FF" />
+<polygon points="12,12 12,18 15,18 15,12" fill="#FFFFFF" />
+<polygon points="19,12 19,18 22,18 22,12" fill="#FFFFFF" />
+<polygon points="17,24 21,24 21,20" fill="#9146FF" />
+
+  </g>
+
+  <!-- Text Details -->
+  <g transform="translate(60, 24)">
+    <!-- Shadow for title -->
+    <text class="mc-title" x="1" y="1" fill="#1C1106">Twitch</text>
+    <text class="mc-title" x="0" y="0">Twitch</text>
+
+    <!-- Handle / Subtext -->
+    <text class="mc-sub" x="1" y="18" fill="#1C1106">rocaman_mc</text>
+    <text class="mc-sub" x="0" y="17">rocaman_mc</text>
+  </g>
+
+  <!-- Animated Enchanted Border on Hover/Idle subtle pulse -->
+  <rect x="2" y="2" width="206" height="54" fill="none" stroke="#B388FF" stroke-width="1.5" opacity="0.2" rx="2">
+    <animate attributeName="opacity" values="0.1;0.4;0.1" dur="3s" repeatCount="indefinite" />
+  </rect>
+</svg>
