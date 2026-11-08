@@ -10,7 +10,7 @@
 
   <!-- Monocraft Typography Animated Subtitle -->
   <a href="https://rocaman.vercel.app/">
-    <img src="./assets/typing-monocraft.svg" alt="Monocraft Typing SVG" width="650" />
+    <img src="./assets/typing-monocraft.svg" alt="Monocraft Typing SVG" width="700" />
   </a>
 
   <br/><br/>
