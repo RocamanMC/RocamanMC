@@ -5,11 +5,7 @@
     <img src="./assets/rocaman-banner.png" alt="ROCAMAN" width="80%" />
   </a>
 
-  <!-- Minecraft Title Splash Text (Yellow Bouncing Text) -->
-  <br/>
-  <a href="https://rocaman.vercel.app/">
-    <img src="./assets/minecraft-splash.svg" width="460" alt="Minecraft Splash Text" />
-  </a>
+  <br/><br/>
 
   <!-- Monocraft Typography Animated Subtitle -->
   <a href="https://rocaman.vercel.app/">
@@ -117,15 +113,11 @@
 
 <br/>
 
-<!-- Minirreproductor estilo Rocafy flanqueado por Antorchas de Redstone -->
+<!-- Minirreproductor estilo Rocafy -->
 <div align="center">
-  <img src="./assets/redstone-torch.svg" width="28" align="middle" alt="Antorcha de Redstone" />
-  &nbsp;&nbsp;&nbsp;
   <a href="https://rocafy.vercel.app/">
-    <img src="./assets/roca-player.svg" alt="Rocafy Mini Player" width="540" align="middle" />
+    <img src="./assets/roca-player.svg" alt="Rocafy Mini Player" width="540" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/redstone-torch.svg" width="28" align="middle" alt="Antorcha de Redstone" />
 </div>
 
 <br/>
@@ -136,14 +128,8 @@
 
 <div align="center">
 
-  <!-- Minecraft Oak Hanging Sign flanqueado por Antorchas de Redstone -->
-  <p align="center">
-    <img src="./assets/redstone-torch.svg" width="28" align="middle" alt="Antorcha de Redstone" />
-    &nbsp;&nbsp;
-    <img src="./assets/oak-hanging-sign.svg" width="460" alt="Tablón de la Comunidad" align="middle" />
-    &nbsp;&nbsp;
-    <img src="./assets/redstone-torch.svg" width="28" align="middle" alt="Antorcha de Redstone" />
-  </p>
+  <!-- Minecraft Oak Hanging Sign -->
+  <img src="./assets/oak-hanging-sign.svg" width="460" alt="Tablón de la Comunidad" />
 
   <br/><br/>
 
