@@ -5,7 +5,11 @@
     <img src="./assets/rocaman-banner.png" alt="ROCAMAN" width="80%" />
   </a>
 
-  <br/><br/>
+  <!-- Minecraft Title Splash Text (Yellow Bouncing Text) -->
+  <br/>
+  <a href="https://rocaman.vercel.app/">
+    <img src="./assets/minecraft-splash.svg" width="460" alt="Minecraft Splash Text" />
+  </a>
 
   <!-- Monocraft Typography Animated Subtitle -->
   <a href="https://rocaman.vercel.app/">
@@ -95,11 +99,33 @@
 
 <br/>
 
-<!-- Minirreproductor estilo Rocafy -->
+---
+
+### 🏆 Desafíos Desbloqueados
+
 <div align="center">
+  <p align="center">
+    <a href="https://rocastore.vercel.app/" title="RocaStore"><img src="./assets/advancement-rocastore.svg" width="310" alt="Logro RocaStore" /></a>
+    &nbsp;&nbsp;
+    <a href="https://rocafy.vercel.app/" title="Rocafy"><img src="./assets/advancement-rocafy.svg" width="310" alt="Logro Rocafy" /></a>
+    <br/><br/>
+    <a href="https://ziroka.vercel.app/" title="Ziroka"><img src="./assets/advancement-ziroka.svg" width="310" alt="Logro Ziroka" /></a>
+    &nbsp;&nbsp;
+    <a href="https://rocaman.vercel.app/" title="Rocaman Web"><img src="./assets/advancement-rocaweb.svg" width="310" alt="Logro Rocaman Web" /></a>
+  </p>
+</div>
+
+<br/>
+
+<!-- Minirreproductor estilo Rocafy flanqueado por Antorchas de Redstone -->
+<div align="center">
+  <img src="./assets/redstone-torch.svg" width="28" align="middle" alt="Antorcha de Redstone" />
+  &nbsp;&nbsp;&nbsp;
   <a href="https://rocafy.vercel.app/">
-    <img src="./assets/roca-player.svg" alt="Rocafy Mini Player" width="540" />
+    <img src="./assets/roca-player.svg" alt="Rocafy Mini Player" width="540" align="middle" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/redstone-torch.svg" width="28" align="middle" alt="Antorcha de Redstone" />
 </div>
 
 <br/>
@@ -110,8 +136,14 @@
 
 <div align="center">
 
-  <!-- Minecraft Oak Hanging Sign -->
-  <img src="./assets/oak-hanging-sign.svg" width="460" alt="Tablón de la Comunidad" />
+  <!-- Minecraft Oak Hanging Sign flanqueado por Antorchas de Redstone -->
+  <p align="center">
+    <img src="./assets/redstone-torch.svg" width="28" align="middle" alt="Antorcha de Redstone" />
+    &nbsp;&nbsp;
+    <img src="./assets/oak-hanging-sign.svg" width="460" alt="Tablón de la Comunidad" align="middle" />
+    &nbsp;&nbsp;
+    <img src="./assets/redstone-torch.svg" width="28" align="middle" alt="Antorcha de Redstone" />
+  </p>
 
   <br/><br/>
 
