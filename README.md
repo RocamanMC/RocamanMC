@@ -99,7 +99,7 @@
         <br/><br/>
         <b>RocaSticker</b>
       </a>
-      <p>Crea y exporta stickers animados y estáticos para WhatsApp con el pack oficial de Rocaman.</p>
+      <p>Convierte vídeos de TikTok en stickers, gestiona tus propios paquetes y diseña stickers animados o estáticos desde cero para WhatsApp.</p>
       <a href="https://github.com/RocamanMC/rocastore-apks/releases/latest/download/RocaSticker.apk">
         <b>⬇️ Descargar RocaSticker.apk</b>
       </a>
@@ -133,11 +133,11 @@
     <a href="https://github.com/RocamanMC/rocastore-apks/releases/latest/download/RocaSticker.apk" title="Descargar RocaSticker APK para WhatsApp">
       <img src="./assets/rocaman-animated.gif" width="45" align="middle" alt="Rocaman Animado" />
       &nbsp;&nbsp;
-      <b>¡Descarga RocaSticker y añade mis stickers animados a WhatsApp!</b>
+      <b>¡Saca stickers de TikTok, gestiona tus propios paquetes y créalos desde cero!</b>
       &nbsp;&nbsp;
       <img src="./assets/rocaman-animated.gif" width="45" align="middle" alt="Rocaman Animado" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/⬇️_Descargar_RocaSticker-APK_Oficial_v1.185-22c55e?style=for-the-badge&logo=android&logoColor=white" alt="Descargar RocaSticker APK" />
+      <img src="https://img.shields.io/badge/⬇️_Descargar_RocaSticker-APK_Oficial_Android-22c55e?style=for-the-badge&logo=android&logoColor=white" alt="Descargar RocaSticker APK" />
     </a>
   </p>
 </div>
