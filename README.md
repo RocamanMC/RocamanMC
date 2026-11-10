@@ -91,7 +91,56 @@
       <br/><br/>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <br/>
+      <a href="https://github.com/RocamanMC/rocastore-apks/releases/latest/download/RocaSticker.apk">
+        <img src="./assets/rocasticker.png" width="75" height="75" alt="RocaSticker" />
+        <br/><br/>
+        <b>RocaSticker</b>
+      </a>
+      <p>Crea y exporta stickers animados y estáticos para WhatsApp con el pack oficial de Rocaman.</p>
+      <a href="https://github.com/RocamanMC/rocastore-apks/releases/latest/download/RocaSticker.apk">
+        <b>⬇️ Descargar RocaSticker.apk</b>
+      </a>
+      <br/>
+      <sub>v1.185 Oficial para Android</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <br/>
+      <a href="https://github.com/RocamanMC/AlwaysRotate">
+        <img src="https://raw.githubusercontent.com/RocamanMC/AlwaysRotate/master/assets/app_icon.png" width="75" height="75" alt="AlwaysRotate" />
+        <br/><br/>
+        <b>AlwaysRotate</b>
+      </a>
+      <p>Rotación dinámica en tiempo real (60/120 FPS) con reenvío de clics para videollamadas y streaming.</p>
+      <a href="https://github.com/RocamanMC/AlwaysRotate/releases/latest">
+        <b>Descargar en GitHub ↗</b>
+      </a>
+      <br/>
+      <sub>v3.4 Portable para PC</sub>
+      <br/><br/>
+    </td>
+  </tr>
 </table>
+
+<br/>
+
+<!-- Destacado de Descarga Directa RocaSticker con Rocaman Animado -->
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/RocamanMC/rocastore-apks/releases/latest/download/RocaSticker.apk" title="Descargar RocaSticker APK para WhatsApp">
+      <img src="./assets/rocaman-animated.gif" width="45" align="middle" alt="Rocaman Animado" />
+      &nbsp;&nbsp;
+      <b>¡Descarga RocaSticker y añade mis stickers animados a WhatsApp!</b>
+      &nbsp;&nbsp;
+      <img src="./assets/rocaman-animated.gif" width="45" align="middle" alt="Rocaman Animado" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/⬇️_Descargar_RocaSticker-APK_Oficial_v1.185-22c55e?style=for-the-badge&logo=android&logoColor=white" alt="Descargar RocaSticker APK" />
+    </a>
+  </p>
+</div>
 
 <br/>
 
